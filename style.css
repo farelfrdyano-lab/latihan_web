@@ -1,0 +1,20 @@
+tittle {
+    font-family: Arial, sans-serif;
+    background-color: rgb(45, 151, 175);
+    color : white ;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(221, 22, 22);
+    color: white;
+    padding: 30px;
+}
+
+section {
+    background-color: rgb(52, 101, 151);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
